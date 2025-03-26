@@ -10,4 +10,6 @@
    - Prompt the user to **enter the original price** of an item.  
    - Prompt the user to **enter the discount percentage**.  
    - Print the **final price** after applying the discount.  
-   - If no discount was applied, print the **original price**.  
+   - If no discount was applied, print the **original price**.
+   ![test](test.png)
+
